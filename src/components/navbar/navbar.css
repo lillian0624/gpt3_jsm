@@ -1,6 +1,7 @@
 .gpt3__navbar {
     display: flex;
-    justify-content: space-between;
+    flex-direction: row;
+
     align-items: center;
 
     padding: 2rem 6rem;
@@ -15,6 +16,9 @@
 
 .gpt3__navbar-links_logo {
     margin-right: 2rem;
+    display: flex;
+    align-items: center;
+    /* Ensure proper vertical alignment */
 }
 
 .gpt3__navbar-links_logo img {
