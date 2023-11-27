@@ -7,11 +7,17 @@
     flex: 1;
     display: flex;
     justify-content: center;
-    align-items: flex-start;
     flex-direction: column;
 
     margin-right: 5rem;
 }
+
+.gradient__text {
+    background: var(--gradient-text);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+
 
 .gpt3__header-content h1 {
     font-family: var(--font-family);
