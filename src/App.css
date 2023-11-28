@@ -9,6 +9,8 @@ body {
     background: var(--color-bg);
 }
 
+
+
 a {
     color: unset;
     text-decoration: none;
@@ -31,7 +33,7 @@ a {
 }
 
 .section_margin {
-    padding: 4rem 6rem;
+    margin: 4rem 6rem;
 }
 
 .scale-up-center {

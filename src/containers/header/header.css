@@ -1,7 +1,8 @@
 .gpt3__header {
     display: flex;
     flex-direction: row;
-
+    margin: 0 50px;
+    padding: 2rem;
 }
 
 .gpt3__header-content {
@@ -9,8 +10,8 @@
     display: flex;
     justify-content: center;
     flex-direction: column;
-    margin-left: 5rem;
-    margin-right: 5rem;
+    /* margin-left: 5rem;
+    margin-right: 5rem; */
 }
 
 .gradient__text {
