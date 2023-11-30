@@ -2,6 +2,7 @@ import React from 'react';
 import Feature from '../../components/feature/Feature';
 import './whatGPT3.css';
 
+
 const WhatGPT3 = () => (
   <div className="gpt3__whatgpt3" id="wgpt3">
     <div className='section__margin'> 
