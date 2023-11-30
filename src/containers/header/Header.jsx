@@ -1,8 +1,9 @@
 import React from 'react'
+import "../../App.css"
 import './header.css';
 import people from '../../assets/people.png';
 import ai from '../../assets/ai.png';
-// import '../../App.css'
+
 
 const Header = ()=> (
   
