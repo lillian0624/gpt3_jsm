@@ -4,7 +4,7 @@ import './possibility.css';
 import '../../App.css'
 
 const Possibility = () => (
-  <div className="gpt3__possibility section__padding" id="possibility">
+  <div className="gpt3__possibility section_padding" id="possibility">
     <div className="gpt3__possibility-image">
       <img src={possibilityImage} alt="possibility" />
     </div>
